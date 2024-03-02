@@ -14,4 +14,4 @@ The RNN name generator with GRU is designed to learn the sequence and structure 
 - **Name Generation**: Capable of generating unique names based on learned patterns from the training dataset.
 
 
-![Architecture](model.png)
+![Architecture](Model.png)
